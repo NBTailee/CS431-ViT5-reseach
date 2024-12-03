@@ -9,3 +9,6 @@
 - Large-size model like Vit5-large have finetuned on **3-5 epochs** due to the limitation of computational resources and the optimizer is set to **Adafactor** and **PEFT techniques**, **Gradient checkpoint - accumulation**, and **Accelerator** was leveraged to fine-tune on such a large model. Also, the model was tested on **512 and 1024 max token length**.
 ## Results
 ![Screenshot 2024-12-03 083339](https://github.com/user-attachments/assets/2a8e1cc9-4d9c-4da6-92f7-f5235f222b49)
+## Demo
+https://github.com/user-attachments/assets/6c066d0d-fe05-4909-96c4-87597b307b91
+
